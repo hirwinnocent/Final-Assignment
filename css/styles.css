@@ -55,10 +55,12 @@ body {
 
 .modal-content .modal-header {
   background: #512DA8; }
-  .modal-content .modal-header button {
-    color: floralwhite; }
-  .modal-content .modal-header h4 {
-    color: floralwhite; }
+
+.modal-content .modal-header button {
+  color: floralwhite; }
+
+.modal-content .modal-header h4 {
+  color: floralwhite; }
 
 .modal-content .modal-body {
   background-color: #D1C4E9; }
